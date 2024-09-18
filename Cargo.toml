@@ -1,0 +1,16 @@
+[package]
+name = "ExploringRust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+[workspace]
+members = [
+    "01. Hello World/*",
+    "02. Variables/*",
+    "03. Complex data types/*",
+    "04. Strings/*",
+    "05. Functions/*",
+    "06. Control flow/*",
+    "07. Ownership/*"
+]
