@@ -6,6 +6,7 @@ edition = "2021"
 [dependencies]
 [workspace]
 members = [
+    "Assignments/*",
     "01. Hello World/*",
     "02. Variables/*",
     "03. Complex data types/*",
