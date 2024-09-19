@@ -13,5 +13,6 @@ members = [
     "04. Strings/*",
     "05. Functions/*",
     "06. Control flow/*",
-    "07. Ownership/*"
+    "07. Ownership/*",
+    "08. Structs/*"
 ]
