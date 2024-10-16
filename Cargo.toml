@@ -15,5 +15,7 @@ members = [
     "06. Control flow/*",
     "07. Ownership/*",
     "08. Structs/*",
-    "09. Enums/*",
+    "09. Enums/*", 
+    "10. Generics/generics",
+    
 ]
