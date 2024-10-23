@@ -16,6 +16,9 @@ members = [
     "07. Ownership/*",
     "08. Structs/*",
     "09. Enums/*", 
-    "10. Generics/generics", "11. Modules/modules", "11. Modules/todo",
+    "10. Generics/generics",
+     "11. Modules/modules", 
+     "11. Modules/todo", 
+     "12. Collections/rustvectors", "12. Collections/rust_binary_heap", "12. Collections/rust_maps", "12. Collections/rust_sets",
     
 ]
