@@ -19,6 +19,6 @@ members = [
     "10. Generics/generics",
      "11. Modules/modules", 
      "11. Modules/todo", 
-     "12. Collections/rustvectors", "12. Collections/rust_binary_heap", "12. Collections/rust_maps", "12. Collections/rust_sets", "13. Error Handling/errorhandling",
+     "12. Collections/rustvectors", "12. Collections/rust_binary_heap", "12. Collections/rust_maps", "12. Collections/rust_sets", "13. Error Handling/errorhandling", "14. Testing/testing", "14. Testing/testlib",
     
 ]
